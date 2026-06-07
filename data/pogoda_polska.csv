@@ -1,0 +1,51 @@
+﻿Timestamp_UTC,Miasto,Temperatura,Temp_Odczuwalna,Cisnienie,Wilgotnosc,Predkosc_Wiatru,Zachmurzenie,Opis
+2026-01-01T10:00:00+00:00,Warszawa,8.0,3.2,1015,65,4.3,93,duże zachmurzenie
+2026-01-01T10:00:00+00:00,Kraków,12.3,6.7,1019,45,5.7,68,pochmurnie
+2026-01-01T10:00:00+00:00,Łódź,7.0,5.3,1010,43,1.4,40,lekkie zachmurzenie
+2026-01-01T10:00:00+00:00,Wrocław,2.4,-2.4,1016,84,2.2,49,lekkie zachmurzenie
+2026-01-01T10:00:00+00:00,Poznań,3.8,-1.1,1017,55,4.7,64,pochmurnie
+2026-01-01T10:00:00+00:00,Gdańsk,3.6,-4.6,1032,67,7.5,28,lekkie zachmurzenie
+2026-01-01T10:00:00+00:00,Szczecin,6.8,5.0,1017,48,1.4,59,pochmurnie
+2026-01-01T10:00:00+00:00,Bydgoszcz,5.5,2.6,1018,49,4.0,37,lekkie zachmurzenie
+2026-01-01T10:00:00+00:00,Lublin,7.4,5.5,1012,63,1.7,45,lekkie zachmurzenie
+2026-01-01T10:00:00+00:00,Białystok,10.1,5.7,1025,46,6.0,47,lekkie zachmurzenie
+2026-01-01T10:00:00+00:00,Katowice,4.1,1.2,1026,55,4.2,25,lekkie zachmurzenie
+2026-01-01T10:00:00+00:00,Gdynia,5.7,1.3,1026,67,6.1,38,lekkie zachmurzenie
+2026-01-01T10:00:00+00:00,Częstochowa,5.9,-0.4,1024,37,7.0,75,pochmurnie
+2026-01-01T10:00:00+00:00,Radom,6.4,3.7,1020,60,1.3,63,pochmurnie
+2026-01-01T10:00:00+00:00,Toruń,2.8,-1.1,1015,78,3.7,63,pochmurnie
+2026-01-01T10:00:00+00:00,Sosnowiec,6.4,-0.7,1022,55,6.0,46,lekkie zachmurzenie
+2026-01-01T10:00:00+00:00,Rzeszów,7.2,1.9,1014,60,4.9,49,lekkie zachmurzenie
+2026-01-01T10:00:00+00:00,Kielce,4.6,1.1,1026,64,3.2,65,pochmurnie
+2026-01-01T10:00:00+00:00,Gliwice,7.0,5.4,1020,41,4.4,54,pochmurnie
+2026-01-01T10:00:00+00:00,Olsztyn,5.2,1.0,1029,64,5.0,25,lekkie zachmurzenie
+2026-01-01T10:00:00+00:00,Zabrze,9.2,7.7,1023,70,3.0,19,bezchmurnie
+2026-01-01T10:00:00+00:00,Bielsko-Biała,2.0,-2.0,1012,71,3.6,42,lekkie zachmurzenie
+2026-01-01T10:00:00+00:00,Bytom,1.8,-3.8,1015,62,5.3,93,duże zachmurzenie
+2026-01-01T10:00:00+00:00,Zielona Góra,9.3,6.4,1006,58,2.5,87,duże zachmurzenie
+2026-01-01T10:00:00+00:00,Rybnik,7.0,2.1,1028,48,5.8,21,lekkie zachmurzenie
+2026-01-01T10:00:00+00:00,Ruda Śląska,7.0,1.4,1022,54,5.1,60,pochmurnie
+2026-01-01T10:00:00+00:00,Opole,13.5,9.6,1015,36,5.3,71,pochmurnie
+2026-01-01T10:00:00+00:00,Tychy,10.6,8.9,1021,63,3.2,65,pochmurnie
+2026-01-01T10:00:00+00:00,Gorzów Wielkopolski,5.0,1.8,1019,56,3.3,34,lekkie zachmurzenie
+2026-01-01T10:00:00+00:00,Elbląg,7.1,4.3,1019,60,5.8,91,duże zachmurzenie
+2026-01-01T10:00:00+00:00,Płock,8.5,5.9,1015,47,3.1,67,pochmurnie
+2026-01-01T10:00:00+00:00,Dąbrowa Górnicza,7.9,4.5,1021,50,4.4,17,bezchmurnie
+2026-01-01T10:00:00+00:00,Wałbrzych,6.9,3.9,1011,63,2.5,64,pochmurnie
+2026-01-01T10:00:00+00:00,Włocławek,6.2,4.0,1021,66,2.7,69,pochmurnie
+2026-01-01T10:00:00+00:00,Tarnów,0.5,0.5,1019,79,3.0,67,pochmurnie
+2026-01-01T10:00:00+00:00,Chorzów,8.3,3.0,1021,67,6.3,71,pochmurnie
+2026-01-01T10:00:00+00:00,Koszalin,2.9,-3.3,1031,64,4.1,57,pochmurnie
+2026-01-01T10:00:00+00:00,Kalisz,8.7,5.2,1013,52,1.9,82,duże zachmurzenie
+2026-01-01T10:00:00+00:00,Legnica,3.1,-2.9,1022,61,5.6,60,pochmurnie
+2026-01-01T10:00:00+00:00,Grudziądz,14.6,10.6,1018,35,5.5,59,pochmurnie
+2026-01-01T10:00:00+00:00,Jaworzno,2.8,-2.2,1012,74,4.3,76,pochmurnie
+2026-01-01T10:00:00+00:00,Słupsk,4.1,0.7,1011,84,3.5,65,pochmurnie
+2026-01-01T10:00:00+00:00,Jastrzębie-Zdrój,14.5,8.5,1031,35,6.2,42,lekkie zachmurzenie
+2026-01-01T10:00:00+00:00,Nowy Sącz,7.8,1.4,1007,50,5.7,53,pochmurnie
+2026-01-01T10:00:00+00:00,Jelenia Góra,5.0,1.6,1017,81,2.5,19,bezchmurnie
+2026-01-01T10:00:00+00:00,Siedlce,11.8,9.3,1011,63,2.2,55,pochmurnie
+2026-01-01T10:00:00+00:00,Mysłowice,6.8,3.6,1020,62,3.5,45,lekkie zachmurzenie
+2026-01-01T10:00:00+00:00,Konin,12.3,9.6,1019,71,2.5,6,bezchmurnie
+2026-01-01T10:00:00+00:00,Piła,7.1,4.2,1016,58,3.5,42,lekkie zachmurzenie
+2026-01-01T10:00:00+00:00,Piotrków Trybunalski,7.4,4.1,1021,69,3.4,62,pochmurnie

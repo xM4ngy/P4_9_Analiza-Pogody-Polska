@@ -1,0 +1,32 @@
+{
+  "model": "allegro/plt5-small",
+  "num_examples_total": 50,
+  "num_train": 40,
+  "num_eval": 10,
+  "epochs": 50,
+  "learning_rate": 0.0003,
+  "metrics": {
+    "eval_loss": 0.0161,
+    "bleu": 97.55,
+    "rouge1": 98.45,
+    "rouge2": 98.41,
+    "rougeL": 98.45
+  },
+  "examples": [
+    {
+      "input_text": "wygeneruj raport pogody: miasto Radom; temperatura 6.4 C; temperatura odczuwalna 3.7 C; cisnienie 1020 hPa; wilgotnosc 60 procent; wiatr 1.3 m/s; zachmurzenie 63 procent",
+      "target_text": "W mieście Radom temperatura wynosi 6.4 stopni C, a temperatura odczuwalna 3.7 stopni C. Ciśnienie wynosi 1020 hPa, wilgotność 60%, prędkość wiatru 1.3 m/s, a zachmurzenie 63%. Opis pogody: pochmurnie.",
+      "generated_text": "W mieście Radom temperatura wynosi 6.4 stopni C, a temperatura odczuwalna 3.7 stopni C. Ciśnienie wynosi 1020 hPa, wilgotność 60%, prędkość wiatru 1.3 m/s, a zachmurzenie 63%. Opis pogody: pochmurnie."
+    },
+    {
+      "input_text": "wygeneruj raport pogody: miasto Grudziądz; temperatura 14.6 C; temperatura odczuwalna 10.6 C; cisnienie 1018 hPa; wilgotnosc 35 procent; wiatr 5.5 m/s; zachmurzenie 59 procent",
+      "target_text": "W mieście Grudziądz temperatura wynosi 14.6 stopni C, a temperatura odczuwalna 10.6 stopni C. Ciśnienie wynosi 1018 hPa, wilgotność 35%, prędkość wiatru 5.5 m/s, a zachmurzenie 59%. Opis pogody: pochmurnie.",
+      "generated_text": "W mieście Grudziądz temperatura wynosi 14.6 stopni C, a temperatura odczuwalna 1018 hPa, wilgotność 35%, prędkość wiatru 5.5 m/s, a zachmurzenie 59%. Opis pogody: pochmurnie."
+    },
+    {
+      "input_text": "wygeneruj raport pogody: miasto Płock; temperatura 8.5 C; temperatura odczuwalna 5.9 C; cisnienie 1015 hPa; wilgotnosc 47 procent; wiatr 3.1 m/s; zachmurzenie 67 procent",
+      "target_text": "W mieście Płock temperatura wynosi 8.5 stopni C, a temperatura odczuwalna 5.9 stopni C. Ciśnienie wynosi 1015 hPa, wilgotność 47%, prędkość wiatru 3.1 m/s, a zachmurzenie 67%. Opis pogody: pochmurnie.",
+      "generated_text": "W mieście Płock temperatura wynosi 8.5 stopni C, a temperatura odczuwalna 5.9 stopni C. Ciśnienie wynosi 1015 hPa, wilgotność 47%, prędkość wiatru 3.1 m/s, a zachmurzenie 67%. Opis pogody: pochmurnie."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+outputs/plt5-weather/
+outputs/plt5-weather.zip
+
